@@ -3,3 +3,5 @@
 *.pkl
 venv/
 .ipynb_checkpoints/
+*.txt
+*.png
